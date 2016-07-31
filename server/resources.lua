@@ -1,2 +1,0 @@
--- Please read our tutorial on how to use this file.
--- https://help.serenityservers.net/index.php/Garrysmod:How_to_use_automatic_fast_download
